@@ -1,2 +1,2 @@
 # daviddos-1
-DavidDOS 1.0 (the ghetto one)
+A ghetto operating system i wrote in assembly
